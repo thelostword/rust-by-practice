@@ -2,20 +2,10 @@
     <img src="https://github.com/sunface/rust-by-practice/blob/master/en/assets/header.jpg?raw=true">
 </div>
 
-<p align="center">
-    <span>English</span>
-    <span> | </span>
-    <a href="https://github.com/sunface/rust-by-practice/blob/master/zh-CN/src/why-exercise.md">中文</a>
-</p>
     
 <p align="center">Practice Rust with challenging examples, exercises and projects</p>
     
-<div align="center">
 
-[![Stars Count](https://img.shields.io/github/stars/sunface/rust-by-practice?style=flat)](https://github.com/sunface/rust-by-practice/stargazers) 
-[![studyrut](https://img.shields.io/badge/RustCn-orange)](https://hirust.cn) 
-[![LICENSE](https://img.shields.io/badge/license-CC_BY_4.0-green?style=flat)](https://github.com/sunface/rust-by-practice/blob/master/LICENSE)
-</div>
 
 This book was designed for easily diving into and getting skilled with Rust It's very easy to use. All you need to do is to make each exercise compile without ERRORS and Panics!
 
@@ -42,26 +32,6 @@ Although they are so awesome, we have our own secret weapons :)
 
 **What we want to do is fill in the gap between learning and getting started with real projects.**
 
-## 🏅 Contributors
-
-Thanks to all of our [contributors](https://github.com/sunface/rust-by-practice/graphs/contributors)!
-
-<br />
-
-**🏆 Special thanks to our English editor:**
-<table>
-    <tr>
-        <td align="center">
-            <a href="https://github.com/Tanish-Eagle">
-                <img src="https://avatars.githubusercontent.com/u/71984506?v=4?s=100" width="160px"   alt=""/>
-                <br />
-                <sub><b>Tanish-Eagle</b></sub>
-            </a>
-        </td>
-    </tr>
-</table>
-
-<br />
 
 ## Running locally
 
